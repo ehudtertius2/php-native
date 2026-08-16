@@ -245,7 +245,10 @@ $result = $conn->query("SELECT * FROM produk ORDER BY id DESC");
             <i class="fab fa-php me-1"></i> PHP Native CRUD Portofolio
         </span>
         <h5 class="d-block text-muted mt-1" style="font-size: 0.75rem;">
-            Dibuat tanpa framework sebagai demonstrasi kemampuan dasar
+            Dibuat tanpa framework sebagai demonstrasi kemampuan dasar (murni dibuat hanya dengan PHP native, mySQL, HTML, CSS, dan JavaScript)
+        </h5>
+        <h5 class="d-block text-muted mt-1" style="font-size: 0.75rem;">
+            Cocok untuk portofolio atau pembelajaran CRUD sederhana.
         </h5>
     </div>
 
